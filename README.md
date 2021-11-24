@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta name="google-site-verification" content="Ud_CbVCNfnO43I1KtwenKD0M4BkVbyp6r7m0JvgsbWg" />
 
      <meta charset="UTF-8">
   <p> Hola, soy Joaquin, vivo en lima - los olivos y actualmente estoy estudiando en la universidad San Ignacio de Loyola en la carrera de Ingenieria de Software</p>
